@@ -1,0 +1,17 @@
+[
+    {
+        "operator_name": "MTN MOBILE MONEY GH",
+        "operator_code": "MTN_GH",
+        "operator_short_name": "MTN"
+    },
+    {
+        "operator_name": "VODAFONE MOBILE MONEY GH",
+        "operator_code": "VODAFONE_GH",
+        "operator_short_name": "VODAFONE"
+    },
+    {
+        "operator_name": "AIRTEL MOBILE MONEY GH",
+        "operator_code": "AIRTEL_GH",
+        "operator_short_name": "AIRTELTIGO"
+    }
+]

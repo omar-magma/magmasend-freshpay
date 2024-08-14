@@ -1,0 +1,227 @@
+[
+    {
+        "bank_code": "300302",
+        "code": "SCB",
+        "bank_name": "STANDARD CHARTERED BANK",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "SCB"
+    },
+    {
+        "bank_code": "300303",
+        "code": "ABSA",
+        "bank_name": "ABSA BANK GHANA LIMITED",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "ABS"
+    },
+    {
+        "bank_code": "300304",
+        "code": "GCB",
+        "bank_name": "GCB BANK LIMITED",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "GCB"
+    },
+    {
+        "bank_code": "300305",
+        "code": "NIB",
+        "bank_name": "NATIONAL INVESTMENT BANK",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "NIB"
+    },
+    {
+        "bank_code": "300307",
+        "code": "ADB",
+        "bank_name": "AGRICULTURAL DEVELOPMENT BANK",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "ADB"
+    },
+    {
+        "bank_code": "300309",
+        "code": "UMB",
+        "bank_name": "UNIVERSAL MERCHANT BANK",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "UMB"
+    },
+    {
+        "bank_code": "300310",
+        "code": "RPB",
+        "bank_name": "REPUBLIC BANK LIMITED",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "RPB"
+    },
+    {
+        "bank_code": "300311",
+        "code": "ZNB",
+        "bank_name": "ZENITH BANK GHANA LTD",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "ZEB"
+    },
+    {
+        "bank_code": "300312",
+        "code": "ECBK",
+        "bank_name": "ECOBANK",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "ECO"
+    },
+    {
+        "bank_code": "300313",
+        "code": "CLB",
+        "bank_name": "CAL BANK LIMITED",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "CAL"
+    },
+    {
+        "bank_code": "300317",
+        "code": "PBL",
+        "bank_name": "PRUDENTIAL BANK LTD",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "PBL"
+    },
+    {
+        "bank_code": "300318",
+        "code": "STB",
+        "bank_name": "STANBIC BANK",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "STB"
+    },
+    {
+        "bank_code": "300322",
+        "code": "GTB",
+        "bank_name": "GUARANTY TRUST BANK",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "GTB"
+    },
+    {
+        "bank_code": "300325",
+        "code": "UBA",
+        "bank_name": "UNITED BANK OF AFRICA",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "UBA"
+    },
+    {
+        "bank_code": "300329",
+        "code": "ACB",
+        "bank_name": "ACCESS BANK LTD",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "ACB"
+    },
+    {
+        "bank_code": "300331",
+        "code": "CBG",
+        "bank_name": "CONSOLIDATED BANK GHANA",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "CBG"
+    },
+    {
+        "bank_code": "300334",
+        "code": "FNB",
+        "bank_name": "FIRST NATIONAL BANK",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "FNB"
+    },
+
+    {
+        "bank_code": "300323",
+        "code": "FBGL",
+        "bank_name": "FIDELITY BANK LIMITED",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "FIB"
+    },
+    {
+        "bank_code": "300361",
+        "code": "SISL",
+        "bank_name": "SERVICES INTEGRITY SAVINGS & LOANS",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "SISL"
+    },
+    {
+        "bank_code": "300320",
+        "code": "BOA",
+        "bank_name": "BANK OF AFRICA",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "BOA"
+    },
+    {
+        "bank_code": "300496",
+        "code": "DFLC",
+        "bank_name": "DALEX FINANCE AND LEASING COMPANY",
+        "classification": "Third Party",
+        "note": "Sending Participant Only",
+        "short_name": "DFLC"
+    },
+    {
+        "bank_code": "300319",
+        "code": "FBN",
+        "bank_name": "FIRST BANK OF NIGERIA",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "FBN"
+    },
+    {
+        "bank_code": "300362",
+        "code": "GHLB",
+        "bank_name": "GHL Bank",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "GHLB"
+    },
+    {
+        "bank_code": "300328",
+        "code": "BOG",
+        "bank_name": "BANK OF GHANA",
+        "classification": "Central Bank",
+        "note": "Sending and Receiving Participant",
+        "short_name": "BOG"
+    },
+    {
+        "bank_code": "300316",
+        "code": "FAB",
+        "bank_name": "FIRST ATLANTIC BANK",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "FAB"
+    },
+    {
+        "bank_code": "300324",
+        "code": "BSIC",
+        "bank_name": "SAHEL - SAHARA BANK (BSIC)",
+        "classification": "Financial Institution",
+        "note": "Receiving Participant Only",
+        "short_name": "BSIC"
+    },
+    {
+        "bank_code": "300306",
+        "code": "ABL",
+        "bank_name": "ARB APEX BANK LIMITED",
+        "classification": "Financial Institution",
+        "note": "Sending and Receiving Participant",
+        "short_name": "ABL"
+    },
+    {
+        "bank_code": "300308",
+        "code": "SG",
+        "bank_name": "SOCIETE GENERALE GHANA",
+        "classification": "Financial Institution",
+        "note": "Receiving Participant Only",
+        "short_name": "SG"
+    }
+]
